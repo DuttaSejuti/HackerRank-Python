@@ -1,3 +1,25 @@
+#** Find the SECOND LOWEST MARK 
+#INPUT
+#5
+#Harry
+#37.21
+#Berry
+#37.21
+#Tina
+#37.2
+#Akriti
+#41
+#Harsh
+#39
+
+#OUTPUT
+
+#Berry
+#Harry
+
+
+
+
 n=int(input())
 new_list1=list()
 d1=dict()
