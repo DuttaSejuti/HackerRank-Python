@@ -1,0 +1,5 @@
+s=str(input())
+sp=s.find(' ')
+s1=s[:sp].capitalize()
+s2=s[sp+1:].capitalize()
+print(s1,s2)
