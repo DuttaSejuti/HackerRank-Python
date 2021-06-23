@@ -1,0 +1,5 @@
+n=int(input())
+s1=set(map(int,input().split()))
+len_s1=len(s1)
+sum_s1=sum(s1)
+print(float(sum_s1/len_s1))
